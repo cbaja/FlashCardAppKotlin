@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tvFlashCard_question"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="Quel est le nom du Président Haitien qui a été tué chez lui pendant qu'il était au pouvoir ?"
+        android:textSize="40sp"
+        android:gravity="center"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/tvFlashCard_answer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:text="JOVENEL MOISE"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:visibility="invisible"
+        android:layout_below="@+id/tvFlashCard_question"/>
+
+</RelativeLayout>
