@@ -10,7 +10,7 @@ This week I built my Flashcard app. My basic Flashcard app can: display a questi
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="lab1FCAppK.gif" width=200><br>
 
 
 ## Required
