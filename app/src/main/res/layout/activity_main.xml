@@ -9,10 +9,12 @@
     <TextView
         android:id="@+id/tvFlashCard_question"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="wrap_content"
         android:text="Quel est le nom du Président Haitien qui a été tué chez lui pendant qu'il était au pouvoir ?"
         android:textSize="40sp"
         android:gravity="center"
+        android:background="@drawable/solid_color_shape"
+        android:textColor="@color/white"
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
@@ -21,10 +23,12 @@
     <TextView
         android:id="@+id/tvFlashCard_answer"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="wrap_content"
         android:text="JOVENEL MOISE"
         android:textSize="40sp"
         android:gravity="center"
+        android:background="@drawable/hard_color_shape"
+        android:textColor="@color/design_default_color_error"
         android:visibility="invisible"
         android:layout_below="@+id/tvFlashCard_question"/>
 
