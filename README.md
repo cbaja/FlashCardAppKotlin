@@ -5,7 +5,7 @@
 ## Lab 1
 
 ### App Description
-This week I built my Flashcard app. My basic Flashcard app can: display a question respond to a user's tap to display the answer to the question. Good ....
+This week I built my Flashcard app. My basic Flashcard app can: display a question respond to a user's tap to display the answer to the question.
 
 
 ### App Walk-though
@@ -28,4 +28,4 @@ This week I built my Flashcard app. My basic Flashcard app can: display a questi
 - [x] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
    - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+- [x] Further customize and style the card
