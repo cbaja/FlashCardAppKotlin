@@ -12,6 +12,8 @@ This week I built my Flashcard app. My basic Flashcard app can: display a questi
 
 <img src="lab1FCAppK.gif" width=200><br>
 
+<img src="lab1FCAppK2.gif" width=200><br>
+
 
 ## Required
 - [x] Create New Project in Android Studio
