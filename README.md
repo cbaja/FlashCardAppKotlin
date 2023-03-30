@@ -10,8 +10,10 @@ This week I built my Flashcard app. My basic Flashcard app can: display a questi
 
 ### App Walk-though
 
-<img src="lab1FCAppK.gif" width=200><br>
+#### Required
+<img src="lab1FCAppK.gif" width=200><br><br>
 
+#### Optional
 <img src="lab1FCAppK2.gif" width=200><br>
 
 
