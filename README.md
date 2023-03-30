@@ -5,7 +5,7 @@
 ## Lab 1
 
 ### App Description
-This week I built my Flashcard app. My basic Flashcard app can: display a question respond to a user's tap to display the answer to the question.
+This week I built my Flashcard app. My basic Flashcard app can: display a question respond to a user's tap to display the answer to the question. Good ....
 
 
 ### App Walk-though
